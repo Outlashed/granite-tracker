@@ -55,4 +55,4 @@ Accessible via the sidebar icon. From here you can:
 
 ## Author
 
-<!-- Your name / GitHub handle here -->
+<!-- OSRS: CrownedFoxxo / Discord: CrownedFoxxy / GitHub: Outlashed -->
