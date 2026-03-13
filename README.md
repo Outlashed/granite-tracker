@@ -48,11 +48,11 @@ Accessible via the sidebar icon. From here you can:
 
 ## Known Limitations
 
-- [ ] No screenshot / export of statistics
+- [ ] No export of statistics
 - [ ] Replace the generated panel icon with a proper sprite
 
 ---
 
 ## Author
 
-<!-- OSRS: CrownedFoxxo / Discord: CrownedFoxxy / GitHub: Outlashed -->
+OSRS: CrownedFoxxo / Discord: CrownedFoxxy / GitHub: Outlashed
