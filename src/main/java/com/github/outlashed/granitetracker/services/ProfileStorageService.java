@@ -18,7 +18,8 @@ public class ProfileStorageService
     private static final String PROFILE_PREFIX = "profile.";
     private static final Type STRING_LIST_TYPE = new TypeToken<List<String>>(){}.getType();
 
-    private final Gson gson = new Gson();
+    @Inject
+    private Gson gson;
 
     @Inject
     private ConfigManager configManager;
