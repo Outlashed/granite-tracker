@@ -121,8 +121,8 @@ public class GraniteTrackingService
         count5kg = 0;
 
         lastMiningXp = client.getSkillExperience(Skill.MINING);
-        lastOreVarp = -1;
-        oreBaselineInitialized = false;
+        lastOreVarp = client.getVarpValue(TRACKING_ORE_MINED_VARP);
+        oreBaselineInitialized = true;
 
         tickXpDelta = 0;
         tickOreDelta = 0;
